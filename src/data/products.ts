@@ -7,7 +7,7 @@ export const PRODUCTS: Product[] = [
     variant: 'Pedas Daun Jeruk',
     tagline: 'Sensasi pedas gurih berpadu aroma daun jeruk segar',
     description:
-      'Varian primadona paling dicari! Keripik singkong renyah yang dibalut racikan cabai asli dan irisan daun jeruk purut segar. Aroma wangi yang menggoda dan rasa pedas gurih nagih tanpa bikin tenggorokan serak.',
+      'Varian primadona paling dicari! Keripik pisang renyah yang dibalut racikan cabai asli dan irisan daun jeruk purut segar. Aroma wangi yang menggoda dan rasa pedas gurih nagih tanpa bikin tenggorokan serak.',
     price: 15000,
     originalPrice: 18000,
     weight: '150 gram',
@@ -16,10 +16,10 @@ export const PRODUCTS: Product[] = [
     badge: 'Best Seller #1',
     isBestSeller: true,
     image: 'https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=800&q=80',
-    ingredients: ['Singkong Pilihan Aceh', 'Cabai Rawit Merah Asli', 'Daun Jeruk Purut Segar', 'Bawang Putih', 'Garam Laut', 'Minyak Kelapa Sawit Berkualitas'],
+    ingredients: ['Pisang Pilihan Aceh', 'Cabai Rawit Merah Asli', 'Daun Jeruk Purut Segar', 'Bawang Putih', 'Garam Laut', 'Minyak Kelapa Sawit Berkualitas'],
     shelfLife: '6 Bulan (Kemasan tertutup rapat)',
     packaging: 'Pouch Ziplock Aluminium Foil Higienis',
-    chipsType: 'singkong'
+    chipsType: 'pisang'
   },
   {
     id: 'mayumi-original-gurih',
@@ -27,7 +27,7 @@ export const PRODUCTS: Product[] = [
     variant: 'Original Gurih Renyah',
     tagline: 'Kerenyahan klasik rasa bawang putih & garam laut alami',
     description:
-      'Pilihan sempurna bagi penyuka rasa klasik yang otentik. Mengedepankan rasa manis alami singkong segar pilihan dengan sentuhan gurih bawang putih dan garam laut. Tekstur ekstra renyah tidak berminyak.',
+      'Pilihan sempurna bagi penyuka rasa klasik yang otentik. Mengedepankan rasa gurih manis alami pisang segar pilihan dengan sentuhan renyah bawang putih dan garam laut. Tekstur ekstra renyah tidak berminyak.',
     price: 13000,
     originalPrice: 15000,
     weight: '150 gram',
@@ -35,10 +35,10 @@ export const PRODUCTS: Product[] = [
     category: 'gurih',
     badge: 'Favorit Semua Usia',
     image: 'https://images.unsplash.com/photo-1621447504864-d8686e12698c?auto=format&fit=crop&w=800&q=80',
-    ingredients: ['Singkong Pilihan Aceh', 'Bawang Putih Segar', 'Garam Laut', 'Kaldu Jamur Nabati', 'Minyak Kelapa Sawit'],
+    ingredients: ['Pisang Pilihan Aceh', 'Bawang Putih Segar', 'Garam Laut', 'Kaldu Jamur Nabati', 'Minyak Kelapa Sawit'],
     shelfLife: '6 Bulan',
     packaging: 'Pouch Ziplock Aluminium Foil Higienis',
-    chipsType: 'singkong'
+    chipsType: 'pisang'
   },
   {
     id: 'mayumi-balado-aceh',
@@ -53,10 +53,10 @@ export const PRODUCTS: Product[] = [
     category: 'pedas',
     badge: 'Rempah Otentik',
     image: 'https://images.unsplash.com/photo-1528751014936-863e6e7a319c?auto=format&fit=crop&w=800&q=80',
-    ingredients: ['Singkong Pilihan', 'Cabai Merah Keriting', 'Gula Aren Alami', 'Bawang Merah & Putih', 'Asam Jawa', 'Garam Laut'],
+    ingredients: ['Pisang Pilihan', 'Cabai Merah Keriting', 'Gula Aren Alami', 'Bawang Merah & Putih', 'Asam Jawa', 'Garam Laut'],
     shelfLife: '6 Bulan',
     packaging: 'Pouch Ziplock Aluminium Foil Higienis',
-    chipsType: 'singkong'
+    chipsType: 'pisang'
   },
   {
     id: 'mayumi-jagung-bakar',
@@ -71,10 +71,10 @@ export const PRODUCTS: Product[] = [
     category: 'manis',
     badge: 'Paling Disukai Anak Muda',
     image: 'https://images.unsplash.com/photo-1600952841320-db92ec4047ca?auto=format&fit=crop&w=800&q=80',
-    ingredients: ['Singkong Renyah', 'Bumbu Jagung Manis Pilihan', 'Mentega Nabati', 'Gula Tebu Halus', 'Garam'],
+    ingredients: ['Pisang Renyah', 'Bumbu Jagung Manis Pilihan', 'Mentega Nabati', 'Gula Tebu Halus', 'Garam'],
     shelfLife: '6 Bulan',
     packaging: 'Pouch Ziplock Aluminium Foil Higienis',
-    chipsType: 'singkong'
+    chipsType: 'pisang'
   },
   {
     id: 'mayumi-pedas-gila-lvl3',
@@ -90,10 +90,10 @@ export const PRODUCTS: Product[] = [
     category: 'pedas',
     badge: 'Tantangan Ekstra Pedas',
     image: 'https://images.unsplash.com/photo-1599490659213-e2b9527bd087?auto=format&fit=crop&w=800&q=80',
-    ingredients: ['Singkong Pilihan', 'Cabai Rawit Merah Super', 'Cabai Kering Halus', 'Daun Jeruk Segar', 'Bumbu Rempah Rahasia'],
+    ingredients: ['Pisang Pilihan', 'Cabai Rawit Merah Super', 'Cabai Kering Halus', 'Daun Jeruk Segar', 'Bumbu Rempah Rahasia'],
     shelfLife: '6 Bulan',
     packaging: 'Pouch Ziplock Aluminium Foil Higienis',
-    chipsType: 'singkong'
+    chipsType: 'pisang'
   },
   {
     id: 'mayumi-paket-bundling-4rasa',

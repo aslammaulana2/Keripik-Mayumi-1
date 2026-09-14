@@ -34,7 +34,7 @@ export const AboutSection: React.FC = () => {
                 <div className="rounded-3xl overflow-hidden shadow-md aspect-4/5 bg-stone-200">
                   <img
                     src="https://images.unsplash.com/photo-1621447504864-d8686e12698c?auto=format&fit=crop&w=600&q=80"
-                    alt="Proses Pengolahan Singkong Pilihan"
+                    alt="Proses Pengolahan Pisang Pilihan"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                     loading="lazy"
                   />
@@ -56,11 +56,11 @@ export const AboutSection: React.FC = () => {
             </div>
 
             <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
-              <strong>Keripik Mayumi</strong> lahir di jantung kota Banda Aceh dari kegemaran keluarga dalam mengolah camilan keripik singkong tradisional. Kami melihat keripik singkong seringkali terasa terlalu keras atau berminyak, serta bumbunya hanya menggunakan serbuk perisa sintetis.
+              <strong>Keripik Mayumi</strong> lahir di jantung kota Banda Aceh dari kegemaran keluarga dalam mengolah camilan keripik pisang tradisional. Kami melihat keripik pisang di pasaran seringkali terasa terlalu keras atau berminyak, serta bumbunya hanya menggunakan serbuk perisa sintetis.
             </p>
 
             <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
-              Dengan komitmen menciptakan camilan yang <em>renyah, lokal, dan kekinian</em>, kami bereksperimen memadukan irisan tipis singkong segar pilihan dengan daun jeruk purut segar dan cabai rawit merah asli Aceh. Lahirlah <strong>Keripik Mayumi</strong>—camilan yang kini menjadi teman setia saat kerja, nugas, nongkrong, hingga oleh-oleh khas Banda Aceh.
+              Dengan komitmen menciptakan camilan yang <em>renyah, lokal, dan kekinian</em>, kami bereksperimen memadukan irisan tipis pisang segar pilihan dengan daun jeruk purut segar dan cabai rawit merah asli Aceh. Lahirlah <strong>Keripik Mayumi</strong>—camilan yang kini menjadi teman setia saat kerja, nugas, nongkrong, hingga oleh-oleh khas Banda Aceh.
             </p>
 
             {/* 3 Brand Values from PRD */}

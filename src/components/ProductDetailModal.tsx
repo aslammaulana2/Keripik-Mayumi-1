@@ -75,7 +75,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
               {/* Category & Spiciness */}
               <div className="flex items-center justify-between gap-2 mb-1.5">
                 <span className="text-xs font-bold tracking-wider uppercase text-emerald-700 bg-emerald-50 px-2.5 py-0.5 rounded-md">
-                  {product.chipsType === 'paket' ? 'Paket Oleh-oleh' : 'Keripik Singkong Renyah'}
+                  {product.chipsType === 'paket' ? 'Paket Oleh-oleh' : 'Keripik Pisang Renyah'}
                 </span>
 
                 {product.spicinessLevel > 0 && (

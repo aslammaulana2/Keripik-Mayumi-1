@@ -23,7 +23,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProducts, onOrderSpecial })
             {/* Origin & Quality Badge */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-100/80 border border-emerald-300 text-emerald-900 text-xs sm:text-sm font-semibold shadow-xs">
               <span className="w-2 h-2 rounded-full bg-emerald-600 animate-ping" />
-              <span>Oleh-oleh Khas Banda Aceh • 100% Singkong Lokal Pilihan</span>
+              <span>Oleh-oleh Khas Banda Aceh • 100% Pisang Lokal Pilihan</span>
             </div>
 
             {/* Brand Tagline & Headline */}
