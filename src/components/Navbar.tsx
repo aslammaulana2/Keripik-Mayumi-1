@@ -47,7 +47,7 @@ export const Navbar: React.FC<NavbarProps> = ({ cartCount, onOpenCart, activeSec
           </div>
           <div>
             <span className="block text-xl font-extrabold tracking-tight text-emerald-950 leading-none">
-              Keripik <span className="text-amber-600">Mayumi</span>
+              Keripik <span className="text-amber-600">Meureudu</span>
             </span>
             <span className="text-[11px] font-medium tracking-wide text-emerald-700 uppercase">
               Khas Banda Aceh

@@ -25,7 +25,7 @@ export const ValueProposition: React.FC = () => {
       icon: HeartHandshake,
       title: 'Berdayakan Petani Lokal Aceh',
       description:
-        'Bahan baku pisang kualitas super dipanen langsung dari kebun petani lokal di Banda Aceh dan Aceh Besar untuk mendukung ekonomi UMKM daerah.'
+        'Bahan baku singkong kualitas super dipanen langsung dari kebun petani lokal di Banda Aceh dan Aceh Besar untuk mendukung ekonomi UMKM daerah.'
     }
   ];
 

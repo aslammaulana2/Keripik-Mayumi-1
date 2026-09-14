@@ -1,7 +1,7 @@
 import { CartItem, Product, ResellerFormData } from '../types';
 
-export const WHATSAPP_NUMBER = '6285260123488'; // Official WhatsApp Keripik Mayumi Banda Aceh
-export const WHATSAPP_DISPLAY = '0852-6012-3488';
+export const WHATSAPP_NUMBER = '6285356078836'; // Official WhatsApp Keripik Mayumi
+export const WHATSAPP_DISPLAY = '+62 853-5607-8836';
 export const EMAIL_ADDRESS = 'kontak@keripikmayumi.com';
 export const INSTAGRAM_HANDLE = '@keripikmayumi.id';
 export const TIKTOK_HANDLE = '@keripikmayumi';

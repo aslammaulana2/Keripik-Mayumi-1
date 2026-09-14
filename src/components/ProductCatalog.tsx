@@ -67,7 +67,7 @@ export const ProductCatalog: React.FC<ProductCatalogProps> = ({
             Varian Renyah Keripik Mayumi
           </h2>
           <p className="text-sm sm:text-base text-stone-600">
-            Dibuat dari pisang segar pilihan tanah Aceh, diracik dengan bumbu rempah alami dan daun jeruk segar tanpa bahan pengawet buatan.
+            Dibuat dari singkong segar pilihan tanah Aceh, diracik dengan bumbu rempah alami dan daun jeruk segar tanpa bahan pengawet buatan.
           </p>
         </div>
 
@@ -179,7 +179,7 @@ export const ProductCatalog: React.FC<ProductCatalogProps> = ({
                       {/* Spiciness Level Indicator */}
                       <div className="flex items-center justify-between">
                         <span className="text-[11px] font-bold text-emerald-800 uppercase tracking-wider bg-emerald-50 px-2 py-0.5 rounded">
-                          {product.chipsType === 'paket' ? 'Paket Gift' : 'Pisang Renyah'}
+                          {product.chipsType === 'paket' ? 'Paket Gift' : 'Singkong Renyah'}
                         </span>
 
                         {product.spicinessLevel > 0 && (
