@@ -1,0 +1,6 @@
+{
+  "name": "Keripik Mayumi",
+  "description": "Kriuknya Bikin Nagih, Rasanya Bikin Rindu! Camilan keripik renyah khas Banda Aceh dengan aneka varian rasa, pemesanan langsung WhatsApp, dan program kemitraan reseller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
